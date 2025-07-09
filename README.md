@@ -81,7 +81,7 @@ There are two primary ways to explore this IPL Insights Dashboard:
 
 2.  **Open the Tableau Packaged Workbook (.twbx):**
     If you have Tableau Desktop or Tableau Reader installed, you can download the `.twbx` file to open and explore the workbook locally. This allows for full access to the underlying sheets, calculations, and data structure.
-    * [**Download Workbook (.twbx)**](IPL_Insights_2008_2025.twbx) 
+    * [**Download Workbook (.twbx)**](IPL_Key_Stats_2008-2025.twbx) 
     
 
 ## 📈 Key Insights
