@@ -43,7 +43,6 @@ An interactive and dynamic Tableau dashboard with deep statistical analysis:
 ## 🛠 Technologies Used
 
 - **Tableau Desktop** – Core visualization and dashboard creation.
-- **Microsoft Excel** *(if applicable)* – Initial data cleanup and reshaping.
 - **Python(Pandas)** *(data cleaning via `data.py`)* – Advanced preprocessing and transformation.
 
 ---
@@ -75,19 +74,15 @@ An interactive and dynamic Tableau dashboard with deep statistical analysis:
 
 There are two primary ways to explore this IPL Insights Dashboard:
 
-1.  **View on Tableau Public (Recommended for Interactivity):**
+1.  **View the Dashboard:**
     Experience the full interactive functionality of the dashboard directly in your web browser. This includes using the **universal global filters** and **action filters** to explore the data in detail.
-    * [**View Live Dashboard**](https://public.tableau.com/views/IPLKeyStats2008-2025/IPL2025Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    * [**View Dashboard**](https://github.com/user-attachments/assets/8d5d4cef-f2a3-4525-afb0-3f3eccac2a7c)
+
 
 2.  **Open the Tableau Packaged Workbook (.twbx):**
     If you have Tableau Desktop or Tableau Reader installed, you can download the `.twbx` file to open and explore the workbook locally. This allows for full access to the underlying sheets, calculations, and data structure.
     * [**Download Workbook (.twbx)**](IPL_Insights_2008_2025.twbx) 
-    * *(Make sure the filename `IPL_Insights_2008_2025.twbx` matches the actual name of your .twbx file in your Gitlab repo.)*
-    * **Steps to Open:**
-        1.  Extract the `Csv_File.gz` file from this repository.
-        2.  Open Tableau Desktop or Tableau Reader.
-        3.  Go to `File > Open` and select the downloaded `IPL Key Stats 2008-2025.twbx` file.
----
+    
 
 ## 📈 Key Insights
 
@@ -106,10 +101,6 @@ There are two primary ways to explore this IPL Insights Dashboard:
 - 🤖 Predictive modeling for match outcomes  
 
 ---
-
-## 👤 Author & Credits
-
-**Author:** *Annaz Mus Sakib*  
 
 
 **Data Credits:**  
